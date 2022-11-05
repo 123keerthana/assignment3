@@ -3,7 +3,7 @@
 #code of simple calculator
 
 print ("Select an operation to perform:")
-print("3-Addition")
+print("1 -Addition")
 print("2-Subtraction")
 print("3-Multiplication")
 print("4-Division")
